@@ -39,7 +39,7 @@ This is not an exhaustive list. Download and install the launcher to gauge all i
 
 ## Downloads
 
-You can download from [GitHub Releases](https://github.com/xoxttxox/HeliosLauncher/releases)
+You can download from [GitHub Releases](https://github.com/xoxttxox/MinecraftLauncher/releases)
 
 #### Latest Release
 
@@ -91,8 +91,8 @@ This section details the setup of a basic developmentment environment.
 **Clone and Install Dependencies**
 
 ```console
-> git clone https://github.com/dscalzi/HeliosLauncher.git
-> cd HeliosLauncher
+> git clone https://github.com/xoxttxox/MinecraftLauncher.git
+> cd MinecraftLauncher
 > npm install
 ```
 
@@ -181,7 +181,7 @@ Note that you **cannot** open the DevTools window while using this debug configu
 
 Please give credit to the original author and provide a link to the original source. This is free software, please do at least this much.
 
-For instructions on setting up Microsoft Authentication, see https://github.com/dscalzi/HeliosLauncher/blob/master/docs/MicrosoftAuth.md.
+For instructions on setting up Microsoft Authentication, see https://github.com/xoxttxox/MinecraftLauncher/blob/master/docs/MicrosoftAuth.md.
 
 ---
 
